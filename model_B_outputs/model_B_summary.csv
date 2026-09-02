@@ -1,0 +1,2 @@
+﻿model,ngram_range,min_df,max_df,C,train_macro_f1,cv_macro_f1,cv_std,train_cv_gap,test_accuracy,test_macro_precision,test_macro_recall,test_macro_f1,test_weighted_f1
+Model B,"(1,2)",3,0.95,1.0,0.9993423519836344,0.9111920413382073,0.005925283721475862,0.08815031064542711,0.931673422119282,0.9317851078143692,0.9324352675188232,0.9317763991412458,0.9311679023093501
